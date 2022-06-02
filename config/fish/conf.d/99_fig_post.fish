@@ -1,1 +1,0 @@
-/Users/jackshort/.fig/shell/post.fish
